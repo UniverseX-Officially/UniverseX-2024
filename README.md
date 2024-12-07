@@ -12,3 +12,4 @@ Access with 1st free and allowing users using it perfectly!
 
 
 **GET OUT SCRIPT NOW IN HERE!**
+https://www-uxvip.notion.site/Avezteam-net-128812d45628807b9f52d77ce6644053
