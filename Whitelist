@@ -1,1 +1,11 @@
+--// UniverseX \\--
 
+--[[
+Whitelist without permission our teams or copying this file to whitelist, you may banned in UniverseX!! 
+UniverseX whitelist is not paid 💰. it's free, just put your username and done our team will working in it. 
+Whitelisted -- without permission: banned can be appeals if errors. (Permanent) 
+
+@ 2024 by LLCteam.
+]]
+
+get.genv()whitelist.plr = {"SupersNoob2013", "Cameron899898"}
