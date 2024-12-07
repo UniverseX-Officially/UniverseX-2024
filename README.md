@@ -9,3 +9,6 @@ The Fresh & Unlockable:
 # UniverseX-2024
 UniverseX is free high script, with an amazing script bring you more free feature. 
 Access with 1st free and allowing users using it perfectly!
+
+
+**GET OUT SCRIPT NOW IN HERE!**
